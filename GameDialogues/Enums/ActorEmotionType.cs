@@ -1,0 +1,41 @@
+namespace Marshtown.DialogueComponents
+{
+    public enum ActorEmotionType
+    {
+        None,
+        Standard,
+        Angry,
+        Happy,
+        Cheerful,
+        Confident,
+        Ponder,
+        Trivial,
+        Evil,
+        Suspicious,
+        Annoyed,
+        Tired,
+        Sleepy,
+        Shout,
+        Scream,
+        Cautious,
+        Wonder,
+        Surprised,
+        Painful,
+        Strained,
+        Sad,
+        Cry,
+        Friendly,
+        Kindly,
+        Busy,
+        Sullen,
+        Laugh,
+        Eager,
+        GiveUp,
+        Sly,
+        Lovely,
+        Resentful,
+        Sensitive,
+        Joke,
+        Smile
+    }
+}
