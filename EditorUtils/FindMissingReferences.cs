@@ -115,7 +115,7 @@ namespace Marshtown.EditorUtils
         {
             // Get any method with the required name
             // There might be more than one if the method was overloaded
-            // And this is the main issue: if there wil be any overloaded method then we still will return true
+            // And this is the main issue: if there are any overloaded methods, then we still will return true
             //   even though in the inspector it will be missing
             return targetObject
                 .GetType()
